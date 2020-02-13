@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "task": "Bikin Aplikasi",
+        "status": null,
+        "created": "1/4/2020",
+        "completed": null,
+        "tag": null
+    },
+    {
+        "id": 2,
+        "task": "main catur",
+        "status": "complete",
+        "created": "1/1/2020",
+        "completed": "1/20/2020",
+        "tag": [
+            "fun",
+            "rumah"
+        ]
+    },
+    {
+        "id": 3,
+        "task": "berenang",
+        "status": "complete",
+        "created": "2020-02-13T14:39:52.720Z",
+        "completed": null,
+        "tag": [
+            "fun",
+            "hobby"
+        ]
+    },
+    {
+        "id": 4,
+        "task": "membaca",
+        "status": null,
+        "created": "1/3/2020",
+        "completed": null,
+        "tag": null
+    }
+]
